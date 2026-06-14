@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/sobantariq/Desktop/Project/solara/public/css /Users/sobantariq/Desktop/Project/solara/public/js /Users/sobantariq/Desktop/Project/solara/views/partials)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(node server.js)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(curl -s http://localhost:3000/css/style.css)",
+      "Bash(curl -s http://localhost:3000/js/main.js)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=1920&q=80\" -o /Users/sobantariq/Desktop/Project/solara/public/images/hero-bg.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?auto=format&fit=crop&w=900&q=80\" -o /Users/sobantariq/Desktop/Project/solara/public/images/about-team.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1509391366636-9f59e44592ef?auto=format&fit=crop&w=1400&q=80\" -o /Users/sobantariq/Desktop/Project/solara/public/images/project-1.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=900&q=80\" -o /Users/sobantariq/Desktop/Project/solara/public/images/project-2.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1466611653911-0265b9e978c0?auto=format&fit=crop&w=900&q=80\" -o /Users/sobantariq/Desktop/Project/solara/public/images/project-3.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1583345237708-add35a664d77?auto=format&fit=crop&w=1400&q=80\" -o /Users/sobantariq/Desktop/Project/solara/public/images/project-1.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1548337138-e87d889cc369?auto=format&fit=crop&w=900&q=80\" -o /tmp/test3.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?auto=format&fit=crop&w=900&q=80\" -o /Users/sobantariq/Desktop/Project/solara/public/images/project-3.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1624397640148-949b1732bb0a?auto=format&fit=crop&w=900&q=80\" -o /Users/sobantariq/Desktop/Project/solara/public/images/project-5.jpg)",
+      "Bash(wait)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git rm *)"
+    ]
+  }
+}
