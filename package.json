@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "mkdir -p dist && cp -r views public server.js package.json dist/"
+    "build": "mkdir -p dist && cp -r views public server.js package.json package-lock.json dist/ && cd dist && npm install"
   },
   "keywords": [],
   "author": "",
